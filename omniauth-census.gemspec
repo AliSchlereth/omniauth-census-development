@@ -6,8 +6,8 @@ require 'omniauth/census/version'
 Gem::Specification.new do |spec|
   spec.name          = "omniauth-census-development"
   spec.version       = Omniauth::Census::VERSION
-  spec.authors       = ["PlanetEfficacy"]
-  spec.email         = ["jspevack@gmail.com"]
+  spec.authors       = ["AliSchlereth"]
+  spec.email         = ["ali@turing.io"]
 
   spec.summary       = "Turing School of Software Design Omniauth Strategy"
   spec.description   = "This gem makes it possible for developers to create applications that authenticate using the Turing Census identity management platform."
